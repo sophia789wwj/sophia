@@ -1,0 +1,14 @@
+/* Selects all paragraphs */
+p {
+    color: blue;
+}
+
+/* Selects elements with class 'example' */
+.example {
+    font-size: 18px;
+}
+
+/* Selects the element with ID 'header' */
+#header {
+    background-color: gray;
+}
